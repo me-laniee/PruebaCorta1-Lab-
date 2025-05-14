@@ -1,0 +1,145 @@
+.Principal{
+    width: 1440px;
+    height: 3035px;
+    top: -513px;
+    left: -721px;
+    padding: 20px;
+
+    border: 1xp solid black;
+    background-color: #d45af3;
+}
+
+.cuadrado1{
+    width: 1440px;
+    height: 42px;
+
+    background-color: #F5F5F5;
+}
+
+.Texto{
+    width: 214;
+height: 14;
+top: 14px;
+left: 120px;
+padding: 2px;
+
+font-family: HK Grotesk;
+font-weight: 400;
+font-size: 14px;
+line-height: 14px;
+letter-spacing: 0%;
+
+color: #070707;
+}
+
+.Frames{
+    text-align: end;
+}
+
+.Deliver{
+    width: 136;
+height: 18;
+top: 12px;
+left: 910px;
+gap: 6px;
+text-align: end;
+
+}
+
+.Order{
+    width: 128;
+height: 18;
+top: 12px;
+left: 1078px;
+gap: 6px;
+text-align: end;
+
+}
+
+.All{
+    width: 128;
+height: 18;
+top: 12px;
+left: 1078px;
+gap: 6px;
+text-align: end;
+}
+
+.cuadrado2 {
+    width: 1440;
+    height: 90;
+    top: 42px;
+    padding: 20px;
+    display: flex;
+    
+    background-color: #FFFFFF;
+}
+
+.Mega {
+    width: 138;
+    height: 28;
+    top: 73px;
+    left: 184px;
+
+}
+
+.group3 {
+    width: 507;
+    height: 48;
+    top: 63px;
+    left: 542px;
+    
+    background-color: #F3F9FB;
+}
+
+.frame8 {
+    width: 241;
+    height: 24;
+    top: 75px;
+   flex-direction: column;
+    gap: 20px;
+
+}
+
+.group15{
+    width: 1201;
+    height: 36;
+    top: 148px;
+    align-items: center;
+    border-radius: 18px;
+
+}
+
+.Azul{
+    width: 1201;
+    height: 316;
+    top: 220px;
+    border-radius: 16px;
+    align-items: baseline;
+    position: relative;
+
+    background-color: #212844;
+}
+
+.Flecha{
+    width: 86;
+height: 86;
+top: 335px;
+left: 77px;
+position: absolute;
+
+background-color:#FFFFFF;
+border-width: 0px 0px 0px 0px;
+
+}
+
+.flecha{
+    width: 86;
+height: 86;
+top: 336px;
+left: 1364px;
+angle: -180 deg;
+position: absolute;
+
+background-color: #FFFFFF;
+}
