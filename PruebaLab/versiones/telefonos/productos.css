@@ -1,0 +1,93 @@
+.telefonos{
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+    display: flex;
+}
+
+.tel{
+    margin: 2px;
+    padding: 1px;
+}
+
+.smar{
+    width: 378;
+height: 30;
+top: 656px;
+left: 120px;
+
+font-family: HK Grotesk;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+
+font-family: HK Grotesk;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+
+}
+
+.linea{
+width: 378;
+top: 702px;
+left: 120px;
+border-width: 3px;
+position: absolute;
+
+color: rgba(0, 142, 204, 1);
+}
+
+.view{
+width: 82;
+height: 18;
+top: 662px;
+
+align-items: end;
+justify-content: space-between;
+}
+
+.telefonos{
+justify-content: space-between;
+align-items: center;
+display: flex;
+
+}
+
+
+.te1{
+    width: 227;
+    height: 295;
+    top: 742px;
+    left: 120px;
+
+}
+
+.te2{
+    width: 227;
+    height: 295;
+    top: 742px;
+    left: 120px;
+}
+
+.te3{
+    width: 227;
+    height: 295;
+    top: 742px;
+    left: 606px;
+    
+}
+
+.te4{
+    width: 227;
+height: 295;
+top: 742px;
+left: 849px;
+
+}
+
+.te5{
+
+}
