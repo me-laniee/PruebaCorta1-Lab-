@@ -23,7 +23,6 @@ left: -721px;
 .Deliver, .Order, .All {
     width: auto;
     height: 18px;
-    justify-content: space-between;
     align-items: end;
 }
 

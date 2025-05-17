@@ -10,6 +10,12 @@
     gap: 16px;
 }
 
+.circulos{
+justify-content: space-between;
+margin-top: 2px;
+}
+
+
 .cir1{
     width: 132;
 height: 172;

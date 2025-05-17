@@ -40,10 +40,9 @@ border: 1xp;
 }
 
 .puntos{
-    width: 114;
-    height: 8;
-    top: 489px;
-    left: 210px;
+    left: 350px;
+    position: absolute;
+    margin: 250px;
    
 
     color: #070707;

@@ -33,9 +33,6 @@ letter-spacing: 0%;
 }
 
 .linea{
-width: 378;
-top: 702px;
-left: 120px;
 border-width: 3px;
 position: absolute;
 
@@ -43,12 +40,12 @@ color: rgba(0, 142, 204, 1);
 }
 
 .view{
-width: 82;
-height: 18;
 top: 662px;
+position: absolute;
+left: 500px;
+margin: 300px;
 
 align-items: end;
-justify-content: space-between;
 }
 
 .telefonos{
