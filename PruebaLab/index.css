@@ -1,61 +1,45 @@
-.grid.container{
-    width: 1440px;
-    height: 3035px;
-    top: -513px;
-    left: -721px;
-    display: grid;
+.principal{
+    background-color: blueviolet;
+    width: 1440;
+height: 3035;
+top: -513px;
+left: -721px;
 
-    border: 1xp solid black;
-    background-color: #ce31f5;
 }
-
-.cuadrado1{
+.cuadrado1 {
     width: 1440px;
     height: 42px;
-
-    background-color: #F5F5F5;
+    background-color: rgba(245, 245, 245, 1);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 
-.Texto{
+.Texto {
     font-size: 14px;
     color: #666666;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    grid-column: 1/2;
-
 }
 
-.Frames{
+.Deliver, .Order, .All {
+    width: auto;
+    height: 18px;
     justify-content: space-between;
-    position: absolute;
+    align-items: end;
 }
 
-.Deliver{
-    width: 136;
-height: 18;
-top: 12px;
-left: 910px;
-gap: 6px;
-text-align: end;
 
+.rectangulo24 {
+    width: 1440px;
+    height: 592px;
+    top: 2443px;
+    background-color: rgba(0, 142, 204, 1);
 }
 
-.Order{
-width: 128;
-height: 18;
-top: 12px;
-left: 1078px;
-gap: 6px;
-text-align: end;
+.cuadradoAzul{
+    width: 1201;
+height: 316;
+top: 220px;
+left: 120px;
+border-radius: 16px;
 
-}
-
-.All{
-    width: 128;
-height: 18;
-top: 12px;
-left: 1078px;
-gap: 6px;
-text-align: end;
 }

@@ -56,7 +56,8 @@ justify-content: space-between;
     width: 1201;
     height: 36;
     top: 148px;
-    align-items: end;
+    align-items: center;
     border-radius: 18px;
+    flex-direction: column;
 
 }

@@ -1,0 +1,17 @@
+.rectangulo24{
+    width: 1440;
+    height: 592;
+    top: 2443px;
+
+    align-items: center;
+}
+
+.celeste{
+    width: 321;
+    height: 401;
+    top: 2443px;
+    left: 1119px;
+    border-width: 1px;
+
+    position: absolute;
+}

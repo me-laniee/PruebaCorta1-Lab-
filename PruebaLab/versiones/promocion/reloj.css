@@ -1,3 +1,12 @@
+.cuadradoAzul{
+    width: 1201;
+height: 316;
+top: 220px;
+left: 120px;
+border-radius: 16px;
+
+}
+
 .rectangulo{
     width: 1201;
     height: 316;
@@ -5,51 +14,7 @@
     left: 120px;
     border-radius: 16px;
 
-    position: absolute;
     color: rgba(33, 40, 68, 1);
-}
-
-.Azul{
-    width: 1201;
-    height: 316;
-    top: 220px;
-    border-radius: 16px;
-    align-items: baseline;
-    position: absolute;
-
-    background-color: #212844;
-}
-
-.Flecha{
-    width: 86;
-    height: 86;
-    top: 335px;
-    left: 77px;
-    position: absolute;
-
-background-color:#FFFFFF;
-border-width: 0px 0px 0px 0px;
-
-}
-
-.flecha{
-    width: 86;
-height: 86;
-top: 336px;
-
-position: absolute;
-left: 100px;
-
-background-color: #FFFFFF;
-}
-
-.tex{
-    width: 574;
-    height: 156;
-    top: 260px;
-    left: 210px;
-
-color: #030303;
 }
 
 .reloj{
@@ -58,7 +23,6 @@ color: #030303;
     top: 244px;
     left: 928px;
 
-    position: absolute;
 }
 
 .fondo{
@@ -72,7 +36,7 @@ border-width: 1px;
 
 color: #3C466B;
 border: 1xp;
-position: absolute;
+
 }
 
 .puntos{
@@ -80,7 +44,7 @@ position: absolute;
     height: 8;
     top: 489px;
     left: 210px;
-    position: absolute;
+   
 
     color: #070707;
 }

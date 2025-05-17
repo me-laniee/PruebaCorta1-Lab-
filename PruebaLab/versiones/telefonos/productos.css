@@ -8,6 +8,8 @@
 .tel{
     margin: 2px;
     padding: 1px;
+    top: 50pxpx;
+    left: 50px;
 }
 
 .smar{
@@ -61,7 +63,7 @@ display: flex;
     width: 227;
     height: 295;
     top: 742px;
-    left: 120px;
+    justify-content: space-between;
 
 }
 
@@ -90,4 +92,16 @@ left: 849px;
 
 .te5{
 
+}
+
+.telef{
+    justify-content: space-between;
+}
+
+.frutas{
+    display: flex;
+}
+
+.ciculo{
+    display: flex;
 }
