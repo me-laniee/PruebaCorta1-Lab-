@@ -1,0 +1,49 @@
+.cuadradoAzul{
+    width: 1201;
+height: 316;
+top: 220px;
+left: 120px;
+border-radius: 16px;
+
+}
+
+.rectangulo{
+    width: 1201;
+    height: 316;
+    top: 220px;
+    left: 120px;
+    border-radius: 16px;
+
+    color: rgba(33, 40, 68, 1);
+}
+
+.reloj{
+    width: 268;
+    height: 270;
+    top: 244px;
+    left: 928px;
+
+}
+
+.fondo{
+    width: 509;
+height: 316;
+top: 220px;
+left: 812px;
+border-top-right-radius: 16px;
+border-bottom-right-radius: 16px;
+border-width: 1px;
+
+color: #3C466B;
+border: 1xp;
+
+}
+
+.puntos{
+    left: 350px;
+    position: absolute;
+    margin: 250px;
+   
+
+    color: #070707;
+}

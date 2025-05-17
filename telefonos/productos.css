@@ -1,0 +1,104 @@
+.telefonos{
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+    display: flex;
+}
+
+.tel{
+    margin: 2px;
+    padding: 1px;
+    top: 50pxpx;
+    left: 50px;
+}
+
+.smar{
+    width: 378;
+height: 30;
+top: 656px;
+left: 120px;
+
+font-family: HK Grotesk;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+
+font-family: HK Grotesk;
+font-weight: 700;
+font-size: 24px;
+line-height: 30px;
+letter-spacing: 0%;
+
+}
+
+.linea{
+border-width: 3px;
+position: absolute;
+
+color: rgba(0, 142, 204, 1);
+}
+
+.view{
+top: 662px;
+position: absolute;
+left: 500px;
+margin: 300px;
+
+align-items: end;
+}
+
+.telefonos{
+justify-content: space-between;
+align-items: center;
+display: flex;
+
+}
+
+
+.te1{
+    width: 227;
+    height: 295;
+    top: 742px;
+    justify-content: space-between;
+
+}
+
+.te2{
+    width: 227;
+    height: 295;
+    top: 742px;
+    left: 120px;
+}
+
+.te3{
+    width: 227;
+    height: 295;
+    top: 742px;
+    left: 606px;
+    
+}
+
+.te4{
+    width: 227;
+height: 295;
+top: 742px;
+left: 849px;
+
+}
+
+.te5{
+
+}
+
+.telef{
+    justify-content: space-between;
+}
+
+.frutas{
+    display: flex;
+}
+
+.ciculo{
+    display: flex;
+}

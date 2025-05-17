@@ -1,0 +1,72 @@
+.electrodomesticos{
+    justify-content: space-between;
+}
+
+.categorias{
+    width: 281;
+    height: 46;
+    top: 1157px;
+    left: 120px;
+    gap: 16px;
+}
+
+.circulos{
+justify-content: space-between;
+margin-top: 2px;
+}
+
+
+.cir1{
+    width: 132;
+height: 172;
+top: 1243px;
+left: 120px;
+
+}
+
+.cir2{
+    width: 132;
+    height: 172;
+    top: 1243px;
+    left: 298px;
+}
+
+.cir3{
+    width: 132;
+    height: 172;
+    top: 1243px;
+    left: 476px;
+    
+}
+
+.cir4{
+    width: 132;
+    height: 172;
+    top: 1243px;
+    left: 654px;
+    
+}
+
+.cir5{
+    width: 132;
+    height: 172;
+    top: 1243px;
+    left: 832px;
+    
+}
+
+.cir6{
+    width: 132;
+    height: 172;
+    top: 1243px;
+    left: 1010px;
+    
+}
+
+.cir7{
+    width: 132;
+    height: 172;
+    top: 1243px;
+    left: 1188px;
+    
+}

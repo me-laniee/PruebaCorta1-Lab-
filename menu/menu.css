@@ -1,0 +1,63 @@
+.cuadrado2 {
+    width: 1440px;
+    height: 90px;
+    padding: 20px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    background-color: #FFFFFF;
+}
+
+.menu{
+    width: 48;
+height: 48;
+top: 63px;
+left: 120px;
+border-radius: 10px;
+
+background-color: #F3F9FB;
+color:#008ECC;
+justify-content: space-between;
+}
+
+
+.Mega {
+    width: 138;
+    height: 28;
+    top: 73px;
+    left: 240px;
+    text-align: center;
+    justify-content: space-between;
+
+}
+
+.group3 {
+    width: 507;
+    height: 48;
+    top: 63px;
+    align-items: center;
+
+    background-color: #F3F9FB;
+}
+
+.frame8 {
+    width: 241;
+    height: 24;
+    top: 75px;
+    flex-direction: column;
+    gap: 20px;
+    align-items: end;
+
+}
+
+.group15{
+    width: 1201;
+    height: 36;
+    top: 148px;
+    align-items: center;
+    border-radius: 18px;
+    flex-direction: column;
+
+}

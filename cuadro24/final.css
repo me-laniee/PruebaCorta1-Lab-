@@ -1,0 +1,113 @@
+.rectangulo24{
+    width: 1449 px;
+    height: 650 px;
+
+    align-items: center;
+}
+
+.celeste{
+  width: 350px;
+  height: 400px;
+  align-items: flex-start;
+
+  left: 1130px;
+  margin: 0;
+    position: absolute;
+}
+
+.letras1{
+    align-items: center;
+    padding: 100px;
+  
+    left: 850px;
+    margin: 1px;
+      position: absolute;
+}
+
+.letras2{
+    align-items: center;
+    padding: 100px;
+
+    left: 600px;
+    margin: 1px;
+    position: absolute;
+}
+
+.Megam{
+    align-items: center;
+    padding: 100px;
+
+    right: 850px;
+    margin: 5px;
+    position: absolute;
+    margin-bottom: 5px;
+}
+
+.contac{
+    align-items: center;
+    padding: 150px;
+
+    right: 900px;
+    margin: 15px;
+    position: absolute;
+    margin-bottom: 10px;
+}
+
+.wasa{
+    align-items: center;
+    padding: 189px;
+
+    right: 820px;
+    margin: 10px;
+    position: absolute;
+}
+
+.call{
+    align-items: center;
+    padding: 250px;
+    justify-content: center;
+  
+    right: 750px;
+    margin: 15px;
+    position: absolute;
+}
+
+.app{
+    align-items: center;
+    padding: 350px;
+    justify-content: center;
+  
+    right: 670px;
+    margin: 30px;
+    position: absolute;
+}
+
+.negro{
+    align-items: center;
+    padding: 350px;
+    justify-content: center;
+  
+    right: 400px;
+    margin: 65px;
+    position: absolute;
+}
+
+.lin{
+    align-items: center;
+    padding: 350px;
+    justify-content: center;
+
+    right: -590px;
+    margin: 190px;
+    position: absolute;
+}
+
+.c{
+    align-items: center;
+    padding: 350px;
+    justify-content: center;
+  
+    right: -200px;
+    margin: 200px;
+    position: absolute;
+}
